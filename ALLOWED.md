@@ -59,13 +59,13 @@
 | 2016.08.21 | 2017.01.21 | 5 | 100000 | dkdrlahwl135, kimjunho111111, sudalv, brianlsh, dldmswo9930 | 네이버 ||
 | 2016.08.28 | 2017.01.28 | 5 | 100000 | juha8084, mx0503, asdf5254300, choipro0116, createdla | 네이버 ||
 | 2016.09.10 | 2017.02.10 | 5 | 100000 | tjdskr1004, cmj12030, dorong0807, cup2613, Postsv | 네이버 ||
-| 2016.09.11 | 2017.02.11 | 5 | 100000 | yoonsehyun03, yoochan1013, alsrjs1312345, baskduf, sanghyun040714, kimcros6, eungwiyoung, Cekim2005 | 네이버 ||
-| 2016.09.18 | 2017.02.18 | 5 | 100000 | hwpark04, kes000625, 9low3927, cso2634, xod2002, wxyz021, zosxm0 | 네이버 ||
-| 2016.09.25 | 2017.02.25 | 5 | 100000 | baskduf, hhyun0520, yook0818, inhajake, 5632lion, sungbin0099, wsj8648 | 네이버 ||
+| 2016.09.11 | 2017.02.11 | 5 | 100000 | yoonsehyun03, yoochan1013, alsrjs1312345, disks, sanghyun040714, kimcros6, eungwiyoung, Cekim2005 | 네이버 ||
+| 2016.09.18 | 2017.02.18 | 5 | 100000 | pacl, kes000625, 9low3927, cso2634, xod2002, wxyz021, zosxm0 | 네이버 ||
+| 2016.09.25 | 2017.02.25 | 5 | 100000 | bask, hhyun0520, yook0818, inhajake, 5632lion, sungbin0099, wsj8648 | 네이버 ||
 | 2016.09.27 | 2017.02.27 | 5 | 100000 | pine777757, larva1221, bdacau808, dlckdfuf141, alscksp, jjuni5719, Tjsejcnrrn | 네이버 ||
 | 2016.10.02 | 2017.03.02 | 5 | 100000 | xodid8881wow, mos03066, blka123, siritop2, rlawoals8888, hss09144 | 네이버 ||
 | 2016.10.10 | 2017.03.10 | 5 | 100000 | david0308, kdh050615, sam01110 | 네이버 ||
-| 2016.10.17 | 2017.03.17 | 5 | 100000 | huntjmy, cyc3050211, hyuk9932, caj7, mx0503, thdgkgus1120, baskduf, taehui11 | 네이버 ||
+| 2016.10.17 | 2017.03.17 | 5 | 100000 | huntjmy, cyc3050211, hyuk9932, caj7, mx0503, thdg, rock, taehui11 | 네이버 ||
 | 2016.10.30 | 2017.03.30 | 5 | 100000 | rlcks951, s1013999, agar_-, younjunsoo, jmk000073, thdgkgus1120 | 네이버 ||
 | 2016.11.06 | 2017.04.06 | 5 | 100000 | yunsy21c, chanyeong8200, Jo3874211 | 네이버 ||
 | 2016.11.17 | 2017.04.17 | 5 | 100000 | justinly2006, luciape, Tiges, rlawnstj679, Hunstrs229, jrwedo | 네이버 ||
@@ -108,8 +108,8 @@
 | 2016.05.17 | happyrecital, happyhw34 | 10000 | 20000 | 문화상품권 | 네이버 |
 | 2016.05.22 | bwc0930 | 10000 | 10000 | 문화상품권 | 네이버 |
 | 2016.05.22 | blka123 | 10000 | 10000 | 문화상품권 ( 정산 ) | 네이버 |
-| 2016.05.29 | thbfrcjn, dlckdfuf141 | 10000 | 20000 | 문화상품권 | 네이버 |
-| 2016.06.06 | psh3253, apffhel1208, evan040329, otj2002, bharrypotter, jsh030530 | 10000 | 60000 | 문화상품권 | 네이버 |
+| 2016.05.29 | thbfrcjn, dlck | 10000 | 20000 | 문화상품권 | 네이버 |
+| 2016.06.06 | psh3, apffhel1208, evan040329, otj2, bharrypotter, jsh030530 | 10000 | 60000 | 문화상품권 | 네이버 |
 | 2016.06.15 | jsj641725, csk200387, ljy9361, mk042192 | 10000 | 40000 | 문화상품권 | 네이버 |
 | 2016.07.02 | didiwpdi, dra1357, MERITKHY | 10000 | 30000 | 문화상품권 | 네이버 |
 | 2016.07.21 | wva2a6eee, kirito_sao, jyjh815, zxcvb9894, cjinsu9138 | 10000 | 50000 | 문화상품권 | 네이버 |
@@ -121,11 +121,11 @@
 | 2016.08.14 | dohung11 | 10000 | 10000 | 문화상품권 | 네이버 |
 | 2016.08.14 | maxpjh0528 | 10000 | 10000 | 네이버 해피빈 콩 | 네이버 |
 | 2016.08.21 | dkdrlahwl135, kimjunho111111, sudalv, brianlsh, dldmswo9930 | 10000 | 50000 | 문화상품권 | 네이버 |
-| 2016.08.28 | juha8084, mx0503, asdf5254300, choipro0116, createdla | 10000 | 50000 | 문화상품권 | 네이버 |
+| 2016.08.28 | juha8084, mdf0, asdf5254300, choipro0116, createdla | 10000 | 50000 | 문화상품권 | 네이버 |
 | 2016.09.10 | tjdskr1004, cmj12030, dorong0807, cup2613, Postsv | 10000 | 50000 | 문화상품권 | 네이버 |
 | 2016.09.10 | john030614, kirito_sao | 10000 | 20000 | 문화상품권 ( 정산 ) | 네이버 |
-| 2016.09.11 | yoonsehyun03, yoochan1013, alsrjs1312345, baskduf, sanghyun040714, kimcros6, eungwiyoung, Cekim2005 | 10000 | 80000 | 문화상품권 | 네이버 |
-| 2016.09.18 | hwpark04, kes000625, 9low3927, cso2634, xod2002, wxyz021, zosxm0 | 10000 | 70000 | 문화상품권 | 네이버 |
+| 2016.09.11 | yoonsehyun03, yoochan1013, alsrjs1312345, disks, sanghyun040714, kimcros6, eungwiyoung, Cekim2005 | 10000 | 80000 | 문화상품권 | 네이버 |
+| 2016.09.18 | pacl, kes000625, 9low3927, cso2634, xod2002, wxyz021, zosxm0 | 10000 | 70000 | 문화상품권 | 네이버 |
 | 2016.09.25 | baskduf, hhyun0520, yook0818, inhajake, 5632lion, sungbin0099 | 10000 | 60000 | 문화상품권 | 네이버 |
 | 2016.09.25 | wsj8648 | 10000 | 10000 | 네이버 해피빈 콩 | 네이버 |
 | 2016.09.27 | pine777757, larva1221, bdacau808, dlckdfuf141, alscksp, jjuni5719, Tjsejcnrrn | 10000 | 70000 | 문화상품권 | 네이버 |
@@ -134,7 +134,7 @@
 | 2016.10.10 | david0308, kdh050615, sam01110 | 10000 | 30000 | 문화상품권 | 네이버 |
 | 2016.10.10 | yoochan1013 | 10000 | 10000 | 문화상품권 ( 정산 ) | 네이버 |
 | 2016.10.12 | thdrjs3023 | 150000 | 150000 | 네이버 해피빈 콩 | 네이버 |
-| 2016.10.17 | huntjmy, cyc3050211, hyuk9932, caj7, mx0503, thdgkgus1120, baskduf, taehui11 | 10000 | 80000 | 문화상품권 | 네이버 |
+| 2016.10.17 | huntjmy, cyc3050211, hyuk9932, caj7, mx0503, thdg, baskduf, taehui11 | 10000 | 80000 | 문화상품권 | 네이버 |
 | 2016.10.30 | rlcks951, s1013999, agar_-, younjunsoo, jmk000073, thdgkgus1120 | 10000 | 60000 | 문화상품권 | 네이버 |
 | 2016.11.06 | yunsy21c, chanyeong8200, Jo3874211 | 10000 | 30000 | 문화상품권 | 네이버 |
 | 2016.11.17 | justinly2006, luciape, Tiges, rlawnstj679, jrwedo | 10000 | 50000 | 문화상품권 | 네이버 |
