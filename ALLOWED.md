@@ -50,10 +50,6 @@
 | 날짜 | 만료 | 기간 | 금액 | 이름 | 메일 |
 | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
 | 2016.01.01 | ∞ | ∞ | ∞ | IUzinCRSG ( Sch3023@naver.com ) | 네이버 ||
-| 2016.08.28 | 2017.01.28 | 5 | 100000 | juha8084, mx0503, asdf5254300, choipro0116, createdla | 네이버 ||
-| 2016.09.10 | 2017.02.10 | 5 | 100000 | tjdskr1004, cmj12030, dorong0807, cup2613, Postsv | 네이버 ||
-| 2016.09.11 | 2017.02.11 | 5 | 100000 | yoonsehyun03, yoochan1013, alsrjs1312345, disks, sanghyun040714, kimcros6, eungwiyoung, Cekim2005 | 네이버 ||
-| 2016.09.18 | 2017.02.18 | 5 | 100000 | pacl, kes000625, 9low3927, cso2634, xod2002, wxyz021, zosxm0 | 네이버 ||
 | 2016.09.25 | 2017.02.25 | 5 | 100000 | bask, hhyun0520, yook0818, inhajake, 5632lion, sungbin0099, wsj8648 | 네이버 ||
 | 2016.09.27 | 2017.02.27 | 5 | 100000 | pine777757, larva1221, bdacau808, dlckdfuf141, alscksp, jjuni5719, Tjsejcnrrn | 네이버 ||
 | 2016.10.02 | 2017.03.02 | 5 | 100000 | xodid8881wow, mos03066, blka123, siritop2, rlawoals8888, hss09144 | 네이버 ||
