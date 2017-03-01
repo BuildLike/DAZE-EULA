@@ -150,14 +150,14 @@
 | 2017.01.22 | ryooos123, hesw77, sieen030617, mangomcpe, babyagi42, playeah, yahappy258, Carol2507, mhi0308, ghkdloveda, vase1001, rlaxodn8342 | 10000 | 120000 | 문화상품권 | 네이버 |
 | 2017.01.22 | Zmdk0913 | 10000 | 10000 | 네이버 해피빈 콩 | 네이버 |
 | 2017.02.04 | kimgaon0111, psh3253, onthee, doug753, sosotgserver, kanetz2502, duck1783, sbsdltmdwo, dohe9796, kim6649874, nateslp, dmmm1010,  hjklnm789, box7845125, yaejin0117, xorbs4057 | 10000 | 160000 | 문화상품권 | 네이버 |
-| 2017.03.01 | thbfrcjn, 9low3927, jhcho1102, borborborbor0423, kimdongjin0203, zzangbi543, qwer060606, wsx0615, jisung0629, xodbs9905, 11ho3, tjdskr1004, mozing321 | 10000 | 130000 | 문화상품권 | 네이버 |
+| 2017.03.01 | thbfrcjn, 9low3927, jhcho1102, borborborbor0423, kimdongjin0203, zzangbi543, qwer060606, wsx0615, jisung0629, xodbs9905, 11ho3, tjdskr1004, mozing321, kimpop032 | 10000 | 140000 | 문화상품권 | 네이버 |
 
 ## 데이즈 - EULA 합의 기부 은행 이력
 ```
 데이즈 - EULA 합의 기부 금액 잔고 목록 입니다.
 ```
 ```
-데이즈 - EULA 라이센스 은행 잔고 ( 문화상품권 ) : 14.0000원
+데이즈 - EULA 라이센스 은행 잔고 ( 문화상품권 ) : 1,440,000원
 데이즈 - EULA 라이센스 기부 금액 ( 네이버 해피빈 콩 ) : 549,000원
 ```
 
@@ -228,4 +228,4 @@
 | 2017.01.08 | 40000 | 문화상품권 | 입금 | # | 無 | 無 | 無 | 無 |
 | 2017.01.22 | 120000 | 문화상품권 | 입금 | # | 無 | 無 | 無 | 無 |
 | 2017.02.04 | 160000 | 문화상품권 | 입금 | # | 無 | 無 | 無 | 無 |
-| 2017.03.01 | 130000 | 문화상품권 | 입금 | # | 無 | 無 | 無 | 無 |
+| 2017.03.01 | 140000 | 문화상품권 | 입금 | # | 無 | 無 | 無 | 無 |
