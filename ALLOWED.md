@@ -50,11 +50,6 @@
 | 날짜 | 만료 | 기간 | 금액 | 이름 | 메일 |
 | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
 | 2016.01.01 | ∞ | ∞ | ∞ | IUzinCRSG ( Sch3023@naver.com ) | 네이버 ||
-| 2016.09.25 | 2017.02.25 | 5 | 100000 | bask, hhyun0520, yook0818, inhajake, 5632lion, sungbin0099, wsj8648 | 네이버 ||
-| 2016.09.27 | 2017.02.27 | 5 | 100000 | pine777757, larva1221, bdacau808, dlckdfuf141, alscksp, jjuni5719, Tjsejcnrrn | 네이버 ||
-| 2016.10.02 | 2017.03.02 | 5 | 100000 | xodid8881wow, mos03066, blka123, siritop2, rlawoals8888, hss09144 | 네이버 ||
-| 2016.10.10 | 2017.03.10 | 5 | 100000 | david0308, kdh050615, sam01110 | 네이버 ||
-| 2016.10.17 | 2017.03.17 | 5 | 100000 | huntjmy, cyc3050211, hyuk9932, caj7, mx0503, thdg, rock, taehui11 | 네이버 ||
 | 2016.10.30 | 2017.03.30 | 5 | 100000 | rlcks951, s1013999, agar_-, younjunsoo, jmk000073, thdgkgus1120 | 네이버 ||
 | 2016.11.06 | 2017.04.06 | 5 | 100000 | yunsy21c, chanyeong8200, Jo3874211 | 네이버 ||
 | 2016.11.17 | 2017.04.17 | 5 | 100000 | justinly2006, luciape, Tiges, rlawnstj679, Hunstrs229, jrwedo | 네이버 ||
